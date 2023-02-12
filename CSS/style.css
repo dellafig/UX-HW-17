@@ -1,0 +1,334 @@
+.about-me {
+    width: 100%;
+    height: auto;
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(51, 51, 51, 1);
+    border-style: solid;
+    border-width: 1px;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .nav-bar {
+    display: flex;
+    padding: 24px 80px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(51, 51, 51, 1);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 0px;
+    background-color: rgba(115, 198, 217, 1);
+  }
+  .dellathe-designer11 {
+    width: 86px;
+    height: 78px;
+    position: relative;
+    border-color: transparent;
+    margin-right: 16px;
+  }
+  .menu-c-t-a {
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: center;
+    border-color: transparent;
+    justify-content: flex-end;
+  }
+  .menu {
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: center;
+    border-color: transparent;
+    margin-right: 48px;
+    justify-content: flex-end;
+  }
+  .text {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 48px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text02 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 48px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text04 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 48px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text06 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .c-t-a-button {
+    display: flex;
+    padding: 12px 16px;
+    position: relative;
+    align-items: flex-start;
+    border-color: rgba(51, 51, 51, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .text08 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .frame404 {
+    display: flex;
+    padding: 48px 80px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: rgba(51, 51, 51, 1);
+    border-style: solid;
+    border-width: 1px;
+    margin-bottom: 0px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(239, 246, 255, 1);
+  }
+  .error404 {
+    display: flex;
+    padding: 80px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: rgba(51, 51, 51, 1);
+    border-style: solid;
+    border-width: 1px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgba(214, 201, 242, 1);
+  }
+  .text10 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 80px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 80px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 40px;
+    text-decoration: none;
+  }
+  .sub-heading-text {
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    border-color: transparent;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .text12 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Molengo;
+    font-weight: 400;
+    line-height: 40px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 16px;
+    text-decoration: none;
+  }
+  .text14 {
+    color: rgba(51, 51, 51, 1);
+    width: 624px;
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Molengo;
+    font-weight: 400;
+    line-height: 150%;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .nav-bar1 {
+    display: flex;
+    padding: 24px 80px;
+    position: relative;
+    align-self: stretch;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: rgba(51, 51, 51, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: rgba(115, 198, 217, 1);
+  }
+  .menu-c-t-a1 {
+    width: 491px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .menu1 {
+    display: flex;
+    position: relative;
+    flex-grow: 1;
+    align-items: center;
+    border-color: transparent;
+    margin-right: 48px;
+    justify-content: flex-end;
+  }
+  .text16 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 48px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text18 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 48px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text20 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 48px;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .text22 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .c-t-a-button1 {
+    display: flex;
+    padding: 12px 16px;
+    position: relative;
+    align-items: flex-start;
+    border-color: rgba(51, 51, 51, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .text24 {
+    color: rgba(51, 51, 51, 1);
+    height: auto;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Spicy Rice;
+    font-weight: 400;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  
